@@ -12,7 +12,7 @@ import 'swiper/css/navigation'
 // Import required Swiper modules
 import { EffectCoverflow, Pagination, Navigation, Autoplay } from 'swiper/modules'
 
-import nikeShoes from './assets/products/12.jpg'
+import nikeShoes from './assets/products/07.jpg'
 import nikeAirMax from './assets/products/02.jpg'
 import nikeZoom from './assets/products/03.jpg'
 import nikeJordan from './assets/products/13.jpg'
