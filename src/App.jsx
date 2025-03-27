@@ -12,7 +12,6 @@ import 'swiper/css/navigation'
 // Import required Swiper modules
 import { EffectCoverflow, Pagination, Navigation, Autoplay } from 'swiper/modules'
 
-import heroImage from './assets/products/12.jpg'
 import nikeAirMax from './assets/products/02.jpg'
 import nikeZoom from './assets/products/03.jpg'
 import nikeJordan from './assets/products/13.jpg'
@@ -123,7 +122,7 @@ function App() {
               className="hero-swiper"
             >
               <SwiperSlide>
-                <img src={heroImage} alt="Nike Shoe" />
+                <img src={lifestyle} alt="Nike Shoe" />
               </SwiperSlide>
               <SwiperSlide>
                 <img src={nikeAirMax} alt="Nike Air Max" />
